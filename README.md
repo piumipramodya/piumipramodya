@@ -3,7 +3,7 @@
 **Final-year BSc (Hons) Computer Systems Engineering Student**  
 **NSBM Green University** | Expected Graduation: **November 2026**
 
-Actively seeking Junior Software Engineer, Android Developer, or Research & Development (R&D) roles in Computer Systems Engineering
+Passionate about building scalable mobile applications and developing research-driven software solutions in software engineering and R&D.
 
 ---
 
