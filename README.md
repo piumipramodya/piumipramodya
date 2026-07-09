@@ -3,7 +3,7 @@
 **Final-year BSc (Hons) Computer Systems Engineering Student**  
 **NSBM Green University** | Expected Graduation: **November 2026**
 
-**Actively seeking Junior Software Engineer, Android Developer, or Research & Development (R&D) roles in Computer Systems Engineering.**
+**Actively seeking Junior Software Engineer, Android Developer, or Research & Development (R&D) roles in Computer Systems Engineering starting late 2026.**
 
 ---
 
@@ -34,27 +34,25 @@ My academic and professional journey has equipped me with solid skills in full-s
 ### 1. SLBFE Foreign Employment Management System
 **Individual Academic Project** • Full-Stack (2026)
 - Designed and developed a complete RESTful Web API and cross-platform mobile application for the Sri Lanka Bureau of Foreign Employment.
-- Features include user registration, document verification, qualification-based candidate matching, complaint management, and real-time overseas location tracking.
-- Implemented role-based access control for citizens, foreign recruiters, and bureau officers.
+- Key features: user registration, document verification, qualification-based candidate matching, complaint management, and real-time overseas location tracking.
+- Implemented role-based access control for citizens, recruiters, and bureau officers.
 - **Technologies**: Node.js, Express.js, MongoDB, Flutter, Bcrypt, JWT
 
 ### 2. Touch Biometrics & Sensor Fusion for Child Digital Wellbeing
 **Undergraduate Thesis** (Ongoing – 2026)
-- Developing an Android application that leverages touch biometrics and multi-sensor fusion (accelerometer + gyroscope) to identify user age groups and deliver personalized digital wellbeing interventions.
-- Applied Z-score normalization and machine learning models for behavioral analysis.
-- Incorporated gamification elements and Just-In-Time Adaptive Interventions (JITAI) to enhance user engagement among children.
+- Developing an Android application using touch biometrics and sensor fusion (accelerometer + gyroscope) to detect age groups and deliver personalized digital wellbeing interventions.
+- Applied Z-score normalization, machine learning models, gamification, and Just-In-Time Adaptive Interventions (JITAI).
 - Focuses on ethical AI and child-centric design.
 
 ### 3. Pet Care Management System
 **Full-Stack Web Application** (2025)
-- Built a comprehensive platform connecting pet owners and veterinarians with features including appointment booking, digital medical records, prescription management, and vaccination tracking.
-- Implemented secure authentication and role-based access control.
+- Built a platform for pet owners and veterinarians with appointment booking, medical records, prescription management, and vaccination tracking.
 - **Technologies**: PHP, MySQL, HTML5, CSS3, JavaScript
 
 ### 4. Gym Management System
 **Group Project** • Full-Stack Application (2026)
-- Developed a modern gym management platform with membership management, class scheduling, attendance tracking, and progress analytics.
-- Emphasized clean architecture, responsive UI/UX, and scalability.
+- Developed membership management, class scheduling, attendance tracking, and progress analytics features.
+- Emphasized clean architecture and responsive UI/UX.
 
 ---
 
@@ -63,15 +61,14 @@ My academic and professional journey has equipped me with solid skills in full-s
 **Software Engineering Intern**  
 **Centre for Defence Research and Development (CDRD), Homagama**  
 *June 2025 – September 2025*
-- Contributed to software development projects within the IT & GIS division.
-- Worked with Java and C to support system development, testing, and integration of defence-related technologies.
-- Collaborated with multidisciplinary engineering teams in a high-impact research environment.
+- Contributed to software development and testing in the IT & GIS division.
+- Worked with Java and C on defence-related technical projects.
 
 **Software Engineering Intern**  
-**Amerck, Colombo*  
+**Amerck, Colombo**  
 *March 2024 – June 2024*
 - Gained international industry exposure working on real-world software development tasks.
-- Strengthened skills in software engineering best practices, code quality, and collaborative development.
+- Strengthened skills in code quality and collaborative development.
 
 ---
 
@@ -80,13 +77,11 @@ My academic and professional journey has equipped me with solid skills in full-s
 **Bachelor of Science (Honours) in Computer Systems Engineering**  
 NSBM Green University | 2022 – November 2026 (Expected)
 
-**G.C.E. Advanced Level (2020)**  
-Princess of Wales College, Moratuwa  
-**Physical Science Stream** – CCC
+**G.C.E. Advanced Level (2020)** – Physical Science Stream  
+Princess of Wales College, Moratuwa **| CCC**
 
 **G.C.E. Ordinary Level (2017)**  
-Buddhist Girls’ College, Mount Lavinia  
-**8 A’s and 1 B**
+Buddhist Girls’ College, Mount Lavinia **| 8 A’s and 1 B**
 
 ---
 
@@ -96,13 +91,7 @@ Buddhist Girls’ College, Mount Lavinia
 - **Email**: piumipramodya22@gmail.com
 - **Location**: Colombo, Sri Lanka
 
----
-
 > *"Building practical and meaningful technology solutions that create real impact."*
-
----
-
-## 📊 GitHub Stats
 
 ---
 
