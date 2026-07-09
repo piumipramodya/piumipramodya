@@ -1,16 +1,107 @@
 ## Hi there 👋
 
-<!--
-**piumipramodya/piumipramodya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Final-year BSc (Hons) Computer Systems Engineering Student**  
+**NSBM Green University** | Expected Graduation: **November 2026**
 
-Here are some ideas to get you started:
+**Actively seeking Junior Software Engineer, Android Developer, or Research & Development (R&D) roles in Computer Systems Engineering.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+Motivated and detail-oriented final-year Computer Systems Engineering student with a strong passion for software development, mobile technologies, and building practical, impactful solutions. I have gained valuable industry experience through two software engineering internships and am currently working on a research-focused undergraduate thesis.
+
+My academic and professional journey has equipped me with solid skills in full-stack development, Android application development, and sensor-based systems. I am particularly interested in **research and development**, mobile computing, and creating intelligent systems that solve real-world problems — especially those with social impact.
+
+---
+
+## 🛠️ Technical Skills
+
+| Category              | Technologies |
+|-----------------------|-------------|
+| **Programming Languages** | Java, Kotlin, JavaScript, C, Dart |
+| **Mobile Development**    | Android Studio, Flutter |
+| **Backend & APIs**        | Node.js, Express.js, RESTful API Design |
+| **Databases**             | MongoDB, MySQL |
+| **Web Technologies**      | HTML5, CSS3, JavaScript, PHP |
+| **Tools & Platforms**     | Git & GitHub, Postman, Visual Studio Code, Firebase |
+| **Core Competencies**     | Problem-solving, Clean Code Practices, System Design, Technical Documentation, Team Collaboration, Research & Development |
+
+---
+
+## 🚀 Featured Projects
+
+### 1. SLBFE Foreign Employment Management System
+**Individual Academic Project** • Full-Stack (2026)
+- Designed and developed a complete RESTful Web API and cross-platform mobile application for the Sri Lanka Bureau of Foreign Employment.
+- Features include user registration, document verification, qualification-based candidate matching, complaint management, and real-time overseas location tracking.
+- Implemented role-based access control for citizens, foreign recruiters, and bureau officers.
+- **Technologies**: Node.js, Express.js, MongoDB, Flutter, Bcrypt, JWT
+
+### 2. Touch Biometrics & Sensor Fusion for Child Digital Wellbeing
+**Undergraduate Thesis** (Ongoing – 2026)
+- Developing an Android application that leverages touch biometrics and multi-sensor fusion (accelerometer + gyroscope) to identify user age groups and deliver personalized digital wellbeing interventions.
+- Applied Z-score normalization and machine learning models for behavioral analysis.
+- Incorporated gamification elements and Just-In-Time Adaptive Interventions (JITAI) to enhance user engagement among children.
+- Focuses on ethical AI and child-centric design.
+
+### 3. Pet Care Management System
+**Full-Stack Web Application** (2025)
+- Built a comprehensive platform connecting pet owners and veterinarians with features including appointment booking, digital medical records, prescription management, and vaccination tracking.
+- Implemented secure authentication and role-based access control.
+- **Technologies**: PHP, MySQL, HTML5, CSS3, JavaScript
+
+### 4. Gym Management System
+**Group Project** • Full-Stack Application (2026)
+- Developed a modern gym management platform with membership management, class scheduling, attendance tracking, and progress analytics.
+- Emphasized clean architecture, responsive UI/UX, and scalability.
+
+---
+
+## 💼 Professional Experience
+
+**Software Engineering Intern**  
+**Centre for Defence Research and Development (CDRD), Homagama**  
+*June 2025 – September 2025*
+- Contributed to software development projects within the IT & GIS division.
+- Worked with Java and C to support system development, testing, and integration of defence-related technologies.
+- Collaborated with multidisciplinary engineering teams in a high-impact research environment.
+
+**Software Engineering Intern**  
+**Amerck, Colombo*  
+*March 2024 – June 2024*
+- Gained international industry exposure working on real-world software development tasks.
+- Strengthened skills in software engineering best practices, code quality, and collaborative development.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science (Honours) in Computer Systems Engineering**  
+NSBM Green University | 2022 – November 2026 (Expected)
+
+**G.C.E. Advanced Level (2020)**  
+Princess of Wales College, Moratuwa  
+**Physical Science Stream** – CCC
+
+**G.C.E. Ordinary Level (2017)**  
+Buddhist Girls’ College, Mount Lavinia  
+**8 A’s and 1 B**
+
+---
+
+## 📫 Contact
+
+- **LinkedIn**: [linkedin.com/in/piumi-pramodya-7695842a4](https://www.linkedin.com/in/piumi-pramodya-7695842a4)
+- **Email**: piumipramodya22@gmail.com
+- **Location**: Colombo, Sri Lanka
+
+---
+
+> *"Building practical and meaningful technology solutions that create real impact."*
+
+---
+
+### GitHub Stats
+![Piumi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piumiPramodya&show_icons=true&theme=radical&hide=contribs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piumiPramodya&layout=compact&theme=radical)
