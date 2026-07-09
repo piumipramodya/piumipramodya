@@ -104,7 +104,11 @@ Buddhist Girls’ College, Mount Lavinia
 
 ## 📊 GitHub Stats
 
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piumiPramodya&show_icons=true&theme=radical&hide=contribs&count_private=true" alt="Piumi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piumiPramodya&layout=compact&theme=radical&hide_progress=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=piumipramodya&show_icons=true&theme=radical&hide=contribs&count_private=true" alt="Piumi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piumipramodya&layout=compact&theme=radical" alt="Top Languages" />
 </p>
