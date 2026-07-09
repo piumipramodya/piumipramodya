@@ -21,9 +21,9 @@ My academic and professional journey has equipped me with solid skills in full-s
 |-----------------------|-------------|
 | **Programming Languages** | Java, Kotlin, JavaScript, C, Dart |
 | **Mobile Development**    | Android Studio, Flutter |
-| **Backend & APIs**        | Node.js, Express.js, RESTful API Design |
+| **Backend & APIs**        | Spring Boot, Node.js, Express.js, RESTful API Design |
 | **Databases**             | MongoDB, MySQL |
-| **Web Technologies**      | HTML5, CSS3, JavaScript, PHP |
+| **Web Technologies**      | React.js, HTML5, CSS3, JavaScript, PHP |
 | **Tools & Platforms**     | Git & GitHub, Postman, Visual Studio Code, Firebase |
 | **Core Competencies**     | Problem-solving, Clean Code Practices, System Design, Technical Documentation, Team Collaboration, Research & Development |
 
@@ -92,8 +92,6 @@ Buddhist Girls’ College, Mount Lavinia **| 8 A’s and 1 B**
 - **Location**: Colombo, Sri Lanka
 
 > *"Building practical and meaningful technology solutions that create real impact."*
-
----
 
 ---
 
