@@ -1,6 +1,3 @@
-Here is your updated README markdown code with the technologies added for the **Gym Management System** project, while leaving every other section and word completely unchanged:
-
-```markdown
 <div align="center">
 
   <!-- Header Animated Snake Banner -->
@@ -188,5 +185,3 @@ My academic and professional journey has equipped me with solid skills in full-s
 
 <!-- Footer Animation -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-892c-15c323c1076f.gif" width="100%" />
-
-```
