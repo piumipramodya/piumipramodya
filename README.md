@@ -1,23 +1,33 @@
 <div align="center">
 
-  # Hi there, I'm Piumi 👋
+  <!-- Header Animated Snake Banner -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-892c-15c323c1076f.gif" width="100%" alt="Header Line animation" />
+
+  <h1 align="center">Hi there, I'm Piumi 👋</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Computer+Systems+Engineering+Student;Mobile+%26+Full-Stack+Developer;AI+%26+Sensor+Fusion+Researcher" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Computer+Systems+Engineering+Student;Mobile+%26+Full-Stack+Developer;AI+%26+Sensor+Fusion+Researcher" alt="Typing SVG" />
   </a>
 
+  <br><br>
+
   <p align="center">
-    <b>Final-year BSc (Hons) Computer Systems Engineering Student</b><br>
-    🎓 <b>NSBM Green University</b> | Expected Graduation: <b>November 2026</b>
+    🎓 <b>Final-year BSc (Hons) Computer Systems Engineering Student</b><br>
+    🏛️ <b>NSBM Green University</b> | Expected Graduation: <b>November 2026</b>
   </p>
 
   <p align="center">
-    <i>Passionate about building scalable mobile applications and developing research-driven software solutions in software engineering and R&D.</i>
+    💡 <i>"Passionate about building scalable mobile applications and developing research-driven software solutions in software engineering and R&D."</i>
+  </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=piumipramodya&color=f72585&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
 </div>
 
----
+<!-- Animated Rainbow Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-892c-15c323c1076f.gif" width="100%" />
 
 ## 👨‍💻 About Me
 
@@ -25,21 +35,25 @@ Motivated and detail-oriented final-year Computer Systems Engineering student wi
 
 My academic and professional journey has equipped me with solid skills in full-stack development, Android application development, and sensor-based systems. I am particularly interested in **research and development**, mobile computing, and creating intelligent systems that solve real-world problems — especially those with social impact.
 
----
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-892c-15c323c1076f.gif" width="100%" />
 
 ## 🛠️ Technical Skills
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Programming Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
-| **Mobile Development** | ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
-| **Backend & APIs** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![REST API](https://img.shields.io/badge/RESTful%20APIs-0055DA?style=flat-square&logo=fastapi&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Web Technologies** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **Programming Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) |
+| **Mobile Development** | ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
+| **Backend & APIs** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![REST API](https://img.shields.io/badge/RESTful%20APIs-0055DA?style=for-the-badge&logo=fastapi&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Web Technologies** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
 | **Core Competencies** | `Problem-Solving` `Clean Code Practices` `System Design` `Technical Documentation` `Team Collaboration` `Research & Development` |
 
----
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-892c-15c323c1076f.gif" width="100%" />
 
 ## 🚀 Featured Projects
 
@@ -50,11 +64,11 @@ My academic and professional journey has equipped me with solid skills in full-s
 - **Key features:** User registration, document verification, qualification-based candidate matching, complaint management, and real-time overseas location tracking.
 - Implemented role-based access control for citizens, recruiters, and bureau officers.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ---
 
@@ -65,9 +79,9 @@ My academic and professional journey has equipped me with solid skills in full-s
 - Applied Z-score normalization, machine learning models, gamification, and Just-In-Time Adaptive Interventions (JITAI).
 - Focuses on ethical AI and child-centric design.
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Sensor Fusion](https://img.shields.io/badge/Sensor%20Fusion-0055DA?style=flat)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Sensor Fusion](https://img.shields.io/badge/Sensor%20Fusion-0055DA?style=for-the-badge)
 
 ---
 
@@ -76,11 +90,11 @@ My academic and professional journey has equipped me with solid skills in full-s
 
 - Built a platform for pet owners and veterinarians with appointment booking, medical records, prescription management, and vaccination tracking.
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
@@ -90,11 +104,13 @@ My academic and professional journey has equipped me with solid skills in full-s
 - Developed membership management, class scheduling, attendance tracking, and progress analytics features.
 - Emphasized clean architecture and responsive UI/UX.
 
----
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-892c-15c323c1076f.gif" width="100%" />
 
 ## 💼 Professional Experience
 
-#### **Software Engineering Intern**
+#### 🔹 **Software Engineering Intern**
 🏢 **Centre for Defence Research and Development (CDRD), Homagama**  
 📅 *June 2025 – September 2025*
 
@@ -103,14 +119,16 @@ My academic and professional journey has equipped me with solid skills in full-s
 
 ---
 
-#### **Software Engineering Intern**
+#### 🔹 **Software Engineering Intern**
 🏢 **Amerck, Colombo**  
 📅 *March 2024 – June 2024*
 
 - Gained international industry exposure working on real-world software development tasks.
 - Strengthened skills in code quality and collaborative development.
 
----
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-892c-15c323c1076f.gif" width="100%" />
 
 ## 🎓 Education
 
@@ -123,7 +141,9 @@ My academic and professional journey has equipped me with solid skills in full-s
 📜 **G.C.E. Ordinary Level (2017)**  
 🏫 **Buddhist Girls’ College, Mount Lavinia** | **`8 A’s and 1 B`**
 
----
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-892c-15c323c1076f.gif" width="100%" />
 
 ## 📫 Contact & Connect
 
@@ -131,6 +151,7 @@ My academic and professional journey has equipped me with solid skills in full-s
   <a href="https://www.linkedin.com/in/piumi-pramodya-7695842a4">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:piumipramodya22@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -140,9 +161,13 @@ My academic and professional journey has equipped me with solid skills in full-s
   📍 <b>Location:</b> Colombo, Sri Lanka
 </p>
 
-> *"Building practical and meaningful technology solutions that create real impact."*
+<blockquote align="center">
+  <i>"Building practical and meaningful technology solutions that create real impact."</i>
+</blockquote>
 
----
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-892c-15c323c1076f.gif" width="100%" />
 
 ## 📊 GitHub Stats
 
@@ -150,3 +175,6 @@ My academic and professional journey has equipped me with solid skills in full-s
   <img src="https://github-readme-stats.shion.dev/api?username=piumipramodya&show_icons=true&theme=radical&hide=contribs&count_private=true&hide_rank=true" alt="Piumi's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=piumipramodya&layout=compact&theme=radical" alt="Top Languages" width="45%" />
 </p>
+
+<!-- Footer Animation -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-892c-15c323c1076f.gif" width="100%" />
