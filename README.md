@@ -97,6 +97,9 @@ Buddhist Girls’ College, Mount Lavinia **| 8 A’s and 1 B**
 
 ## 📊 GitHub Stats
 
-![Piumi's GitHub Stats](https://github-readme-stats.shion.dev/api?username=piumipramodya&show_icons=true&theme=radical&hide=contribs)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=piumipramodya&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=piumipramodya&show_icons=true&theme=radical&hide=contribs" alt="Piumi's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=piumipramodya&layout=compact&theme=radical" alt="Top Languages" width="45%" />
+</p>
