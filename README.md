@@ -1,3 +1,6 @@
+Here is your updated README markdown code with the technologies added for the **Gym Management System** project, while leaving every other section and word completely unchanged:
+
+```markdown
 <div align="center">
 
   <!-- Header Animated Snake Banner -->
@@ -104,6 +107,13 @@ My academic and professional journey has equipped me with solid skills in full-s
 - Developed membership management, class scheduling, attendance tracking, and progress analytics features.
 - Emphasized clean architecture and responsive UI/UX.
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![FL Chart](https://img.shields.io/badge/FL_Chart-0055DA?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-892c-15c323c1076f.gif" width="100%" />
@@ -178,3 +188,5 @@ My academic and professional journey has equipped me with solid skills in full-s
 
 <!-- Footer Animation -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-892c-15c323c1076f.gif" width="100%" />
+
+```
