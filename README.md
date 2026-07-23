@@ -1,9 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-**Final-year BSc (Hons) Computer Systems Engineering Student**  
-**NSBM Green University** | Expected Graduation: **November 2026**
+  # Hi there, I'm Piumi 👋
 
-Passionate about building scalable mobile applications and developing research-driven software solutions in software engineering and R&D.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Computer+Systems+Engineering+Student;Mobile+%26+Full-Stack+Developer;AI+%26+Sensor+Fusion+Researcher" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <b>Final-year BSc (Hons) Computer Systems Engineering Student</b><br>
+    🎓 <b>NSBM Green University</b> | Expected Graduation: <b>November 2026</b>
+  </p>
+
+  <p align="center">
+    <i>Passionate about building scalable mobile applications and developing research-driven software solutions in software engineering and R&D.</i>
+  </p>
+
+</div>
 
 ---
 
@@ -17,40 +29,64 @@ My academic and professional journey has equipped me with solid skills in full-s
 
 ## 🛠️ Technical Skills
 
-| Category              | Technologies |
-|-----------------------|-------------|
-| **Programming Languages** | Java, Kotlin, JavaScript, C, Dart |
-| **Mobile Development**    | Android Studio, Flutter |
-| **Backend & APIs**        | Spring Boot, Node.js, Express.js, RESTful API Design |
-| **Databases**             | MongoDB, MySQL |
-| **Web Technologies**      | React.js, HTML5, CSS3, JavaScript, PHP |
-| **Tools & Platforms**     | Git & GitHub, Postman, Visual Studio Code, Firebase |
-| **Core Competencies**     | Problem-solving, Clean Code Practices, System Design, Technical Documentation, Team Collaboration, Research & Development |
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Programming Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| **Mobile Development** | ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| **Backend & APIs** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![REST API](https://img.shields.io/badge/RESTful%20APIs-0055DA?style=flat-square&logo=fastapi&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Web Technologies** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **Core Competencies** | `Problem-Solving` `Clean Code Practices` `System Design` `Technical Documentation` `Team Collaboration` `Research & Development` |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. SLBFE Foreign Employment Management System
-**Individual Academic Project** • Full-Stack (2026)
-- Designed and developed a complete RESTful Web API and cross-platform mobile application for the Sri Lanka Bureau of Foreign Employment.
-- Key features: user registration, document verification, qualification-based candidate matching, complaint management, and real-time overseas location tracking.
-- Implemented role-based access control for citizens, recruiters, and bureau officers.
-- **Technologies**: Node.js, Express.js, MongoDB, Flutter, Bcrypt, JWT
+### 1. 🌐 SLBFE Foreign Employment Management System
+> **Individual Academic Project** • Full-Stack (2026)
 
-### 2. Touch Biometrics & Sensor Fusion for Child Digital Wellbeing
-**Undergraduate Thesis** (Ongoing – 2026)
+- Designed and developed a complete RESTful Web API and cross-platform mobile application for the Sri Lanka Bureau of Foreign Employment.
+- **Key features:** User registration, document verification, qualification-based candidate matching, complaint management, and real-time overseas location tracking.
+- Implemented role-based access control for citizens, recruiters, and bureau officers.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+
+---
+
+### 2. 📱 Touch Biometrics & Sensor Fusion for Child Digital Wellbeing
+> **Undergraduate Thesis** (Ongoing – 2026)
+
 - Developing an Android application using touch biometrics and sensor fusion (accelerometer + gyroscope) to detect age groups and deliver personalized digital wellbeing interventions.
 - Applied Z-score normalization, machine learning models, gamification, and Just-In-Time Adaptive Interventions (JITAI).
 - Focuses on ethical AI and child-centric design.
 
-### 3. Pet Care Management System
-**Full-Stack Web Application** (2025)
-- Built a platform for pet owners and veterinarians with appointment booking, medical records, prescription management, and vaccination tracking.
-- **Technologies**: PHP, MySQL, HTML5, CSS3, JavaScript
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Sensor Fusion](https://img.shields.io/badge/Sensor%20Fusion-0055DA?style=flat)
 
-### 4. Gym Management System
-**Group Project** • Full-Stack Application (2026)
+---
+
+### 3. 🐾 Pet Care Management System
+> **Full-Stack Web Application** (2025)
+
+- Built a platform for pet owners and veterinarians with appointment booking, medical records, prescription management, and vaccination tracking.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+---
+
+### 4. 🏋️ Gym Management System
+> **Group Project** • Full-Stack Application (2026)
+
 - Developed membership management, class scheduling, attendance tracking, and progress analytics features.
 - Emphasized clean architecture and responsive UI/UX.
 
@@ -58,15 +94,19 @@ My academic and professional journey has equipped me with solid skills in full-s
 
 ## 💼 Professional Experience
 
-**Software Engineering Intern**  
-**Centre for Defence Research and Development (CDRD), Homagama**  
-*June 2025 – September 2025*
+#### **Software Engineering Intern**
+🏢 **Centre for Defence Research and Development (CDRD), Homagama**  
+📅 *June 2025 – September 2025*
+
 - Contributed to software development and testing in the IT & GIS division.
 - Worked with Java and C on defence-related technical projects.
 
-**Software Engineering Intern**  
-**Amerck, Colombo**  
-*March 2024 – June 2024*
+---
+
+#### **Software Engineering Intern**
+🏢 **Amerck, Colombo**  
+📅 *March 2024 – June 2024*
+
 - Gained international industry exposure working on real-world software development tasks.
 - Strengthened skills in code quality and collaborative development.
 
@@ -74,22 +114,31 @@ My academic and professional journey has equipped me with solid skills in full-s
 
 ## 🎓 Education
 
-**Bachelor of Science (Honours) in Computer Systems Engineering**  
-NSBM Green University | 2022 – November 2026 (Expected)
+🎓 **Bachelor of Science (Honours) in Computer Systems Engineering**  
+🏛️ **NSBM Green University** | *2022 – November 2026 (Expected)*
 
-**G.C.E. Advanced Level (2020)** – Physical Science Stream  
-Princess of Wales College, Moratuwa **| CCC**
+📜 **G.C.E. Advanced Level (2020)** – Physical Science Stream  
+🏫 **Princess of Wales College, Moratuwa** | **`CCC`**
 
-**G.C.E. Ordinary Level (2017)**  
-Buddhist Girls’ College, Mount Lavinia **| 8 A’s and 1 B**
+📜 **G.C.E. Ordinary Level (2017)**  
+🏫 **Buddhist Girls’ College, Mount Lavinia** | **`8 A’s and 1 B`**
 
 ---
 
-## 📫 Contact
+## 📫 Contact & Connect
 
-- **LinkedIn**: [linkedin.com/in/piumi-pramodya-7695842a4](https://www.linkedin.com/in/piumi-pramodya-7695842a4)
-- **Email**: piumipramodya22@gmail.com
-- **Location**: Colombo, Sri Lanka
+<p align="center">
+  <a href="https://www.linkedin.com/in/piumi-pramodya-7695842a4">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:piumipramodya22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  📍 <b>Location:</b> Colombo, Sri Lanka
+</p>
 
 > *"Building practical and meaningful technology solutions that create real impact."*
 
@@ -98,6 +147,6 @@ Buddhist Girls’ College, Mount Lavinia **| 8 A’s and 1 B**
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=piumipramodya&show_icons=true&theme=radical&hide=contribs&count_private=true&hide_rank=true" alt="Piumi's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=piumipramodya&show_icons=true&theme=radical&hide=contribs&count_private=true&hide_rank=true" alt="Piumi's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=piumipramodya&layout=compact&theme=radical" alt="Top Languages" width="45%" />
 </p>
